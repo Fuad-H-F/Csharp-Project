@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2012\Projects\labManagementSolution\labManagement\bin\Debug\labManagement.exe.config
+c:\users\user\documents\visual studio 2012\Projects\labManagementSolution\labManagement\bin\Debug\labManagement.exe
+c:\users\user\documents\visual studio 2012\Projects\labManagementSolution\labManagement\bin\Debug\labManagement.pdb
+c:\users\user\documents\visual studio 2012\Projects\labManagementSolution\labManagement\obj\Debug\labManagement.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\labManagementSolution\labManagement\obj\Debug\labManagement.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\labManagementSolution\labManagement\obj\Debug\labManagement.exe
+c:\users\user\documents\visual studio 2012\Projects\labManagementSolution\labManagement\obj\Debug\labManagement.pdb
+c:\users\user\documents\visual studio 2012\Projects\labManagementSolution\labManagement\obj\Debug\labManagement.AdminPanel.resources
+C:\Users\user\documents\visual studio 2012\Projects\labManagementSolution\labManagement\obj\Debug\labManagement.FormLogin.resources
+C:\Users\user\documents\visual studio 2012\Projects\labManagementSolution\labManagement\obj\Debug\labManagement.UserPanel.resources
+C:\Users\user\documents\visual studio 2012\Projects\labManagementSolution\labManagement\obj\Debug\labManagement.csprojResolveAssemblyReference.cache
